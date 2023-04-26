@@ -11,5 +11,7 @@
 
 #### Social Media
 <p align =center>
-  <a href="https://www.instagram.com/lucas.brasileiro/" target="blank"><img src="https://img.icons8.com/metro/48/000000/instagram-new.png" alt="lucas_brasileiro_insta"/>
-  <a href="https://www.linkedin.com/in/LucasBrasileiroRaposo-3a4698220/" target="blank"><img src="https://img.icons8.com/metro/48/000000/linkedin.png" alt="lucas_brasileiro_linkedin"/>
+  <a href="https://www.instagram.com/lucas.brasileiro/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="lucas_brasileiro_insta"/>
+  <a href="https://www.linkedin.com/in/LucasBrasileiroRaposo-3a4698220/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lucas_brasileiro_linkedin"/>
+  <a href="https://www.postgresql.org/" target="blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/>
+    
