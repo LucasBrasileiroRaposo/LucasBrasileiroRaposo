@@ -19,9 +19,7 @@
 
 #### Social Media:
   <p align =center>
-  <a href="https://www.instagram.com/lucas.brasileiro/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="lucas_brasileiro_insta"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-brasileiro-raposo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lucas_brasileiro_linkedin"/>
-  </a>
+  <a href="https://www.instagram.com/lucas.brasileiro/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="lucas_brasileiro_insta"/></a>
+  <a href="https://www.linkedin.com/in/lucas-brasileiro-raposo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lucas_brasileiro_linkedin"/></a>
 
     
